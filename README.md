@@ -115,7 +115,7 @@ While I am a fullstack developer at my core, I have a deep passion for understan
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=onllytap&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+  <img src="https://github-profile-trophy.vercel.app/?username=onllytap&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience,Reviews,MultiLanguage" />
 </p>
 
 <p align="center">
