@@ -1,33 +1,133 @@
-<!-- Web Dev Banner -->
-![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+<a name="top"></a>
 
-<!-- Your Info. -->
-<h1 align="center">Hi 👋, I'm Xerces</h1>
-<h3 align="center">A passionate Web Developer from France</h3>
+<h1 align="center">💻 Hey, I'm Théo 💻</h1>
+<h3 align="center">⚡ Fullstack Developer | Cybersecurity Enthusiast | Future AI Engineer ⚡</h3>
 
-<!-- Programmer GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Theo-Dev-Placeholder&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+</p>
 
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **FrontEnd, DevOps**
-
-- 📫 How to reach me **claxpureuf@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BejadiRajeshReddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BejadiRajeshReddy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BejadiRajeshReddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-informational?style=for-the-badge&logo=gmail&color=2563eb" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=0077b5" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=awesomelists&logoColor=white&color=0284c7" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BejadiRajeshReddy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<a name="about-me"></a>
+
+## 👤 About Me
+
+**I build modern, typed, and scalable web applications.**
+
+Based in Chartres, France, I am an 18-year-old ambitious junior fullstack developer currently focused on creating performant SaaS products, professional web platforms, and highly interactive frontend experiences. I believe in writing robust code and crafting premium user interfaces.
+
+My long-term goal is to grow from fullstack engineering into artificial intelligence engineering, bridging the gap between robust web architectures and intelligent systems.
+
+- 🔎 **Focus:** Fullstack Development, Application Security, and AI-powered products.
+- 🗺️ **Location:** Chartres, France 🇫🇷
+- 🎓 **Background:** Bac +2 in Fullstack Development (Via Formation).
+- 🧠 **Philosophy:** Write clean, typed, and maintainable code to build immersive and secure user experiences.
+
+---
+
+<a name="tech-stack"></a>
+
+## 🧰 Tech Stack & Preferences
+
+I strongly believe in using the right tool for the job. Currently, my go-to stack for building scalable web applications and SaaS products is **Next.js + TypeScript + Tailwind CSS + Node.js + PostgreSQL + Prisma**.
+
+### 🎨 Frontend
+I specialize in building modern, interactive, and responsive interfaces. I rely heavily on React and TypeScript for robust applications, while using Next.js for production-ready fullstack projects. For lighter builds, I often leverage Vite. I also have experience with Angular and core web technologies like JavaScript and CSS.
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+</p>
+
+### ⚙️ Backend & Architecture
+I enjoy designing secure APIs and structured databases for startup-ready projects.
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+<a name="passions"></a>
+
+## 🛡️ Cybersecurity & 🤖 AI 
+
+While I am a fullstack developer at my core, I have a deep passion for understanding how systems work under the hood and how they can be protected or enhanced.
+
+- **Cybersecurity Enthusiast:** I am highly interested in web application security, backend best practices, safe authentication workflows, API protection, and data security. I believe that a great developer must understand how to secure the systems they build against modern threats.
+- **Future AI Engineer:** My ambition is to master the integration of artificial intelligence into web development. I am currently learning about AI applied to development, autonomous AI agents, LLMs, and integrating intelligent automation tools into modern web apps. 
+
+---
+
+<a name="featured-projects"></a>
+
+## 🚀 Featured Projects
+
+> *Showcasing my capability to build scalable, secure, and intelligent applications.*
+
+| Project | Description | Tech Stack | What I Learned |
+|---------|-------------|------------|----------------|
+| **TS Industry - AI Agent** | *An intelligent, decoupled lead-acquisition chatbot built for an AI automation firm. The frontend acts exclusively as a secure UI, delegating all conversational logic, LLM calls, and data qualification to webhooks (n8n) to protect API keys.* | React, TypeScript, Tailwind, n8n, LLMs | *Decoupled frontend-backend architecture, secure API handling, data structuring, and orchestrating complex AI workflows.* |
+| **[Project Name Placeholder]** | *A modern SaaS web application featuring robust authentication, a fully typed API, and a beautiful UI tailored for business use.* | Next.js, Node.js, Prisma, PostgreSQL | *Fullstack integration, relational schema design, and deploying production-ready applications.* |
+
+*(Feel free to check my repositories for more code and ongoing projects!)*
+
+---
+
+<a name="goals"></a>
+
+## 🎯 Roadmap & Goals
+
+- [x] Achieve Bac +2 Level in Fullstack Development.
+- [x] Master the modern React ecosystem (Next.js, Tailwind, TypeScript).
+- [ ] Build and launch a full-scale, production-ready SaaS product.
+- [ ] Deepen my practical knowledge of application security and backend architecture.
+- [ ] Transition towards Artificial Intelligence engineering and build my first autonomous AI agent.
+- [ ] Reach Senior Fullstack Developer level.
+
+---
+
+<a name="github-stats"></a>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Theo-Dev-Placeholder&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Dev-Placeholder&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <sub>Continuously pushing code, learning, and building.</sub>
+</p>
+
+---
+
+<p align="center">
+  “Building secure, scalable, and intelligent web applications.”
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0ea5e9&section=footer" />
+</p>
+
+<br />
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" alt="Back to the Top"/>
+  </a>
+</p>
