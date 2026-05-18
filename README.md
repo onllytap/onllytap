@@ -115,8 +115,8 @@ While I am a fullstack developer at my core, I have a deep passion for understan
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onllytap&show_icons=true&theme=tokyonight&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onllytap&layout=compact&theme=tokyonight" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=onllytap&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;hide_border=true&amp;border_radius=12" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onllytap&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&amp;border_radius=12" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
