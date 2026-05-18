@@ -1,16 +1,24 @@
 <a name="top"></a>
 
-<h1 align="center">💻 Hey, I'm Théo 💻</h1>
-<h3 align="center">⚡ Fullstack Developer | Cybersecurity Enthusiast | Future AI Engineer ⚡</h3>
-
+<!-- En-tête dynamique -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Theo-Dev-Placeholder&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=220&section=header&text=Hey,%20I'm%20Théo&fontSize=50&fontAlignY=38&desc=Fullstack%20Developer%20|%20Cybersecurity%20Enthusiast%20|%20Future%20AI%20Engineer&descAlignY=58&descSize=20&fontColor=ffffff" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-informational?style=for-the-badge&logo=gmail&color=2563eb" /></a>
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=0077b5" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=awesomelists&logoColor=white&color=0284c7" /></a>
+  <img src="https://komarev.com/ghpvc/?username=onllytap&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="mailto:claxpureuf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-informational?style=for-the-badge&logo=gmail&color=2563eb" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/theo-s-782851350/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=0077b5" alt="LinkedIn" />
+  </a>
+  <a href="https://www.byt0.xyz/">
+    <img src="https://img.shields.io/badge/Portfolio-byt0.xyz-blue?style=for-the-badge&logo=awesomelists&logoColor=white&color=0284c7" alt="Portfolio" />
+  </a>
 </p>
 
 ---
@@ -21,7 +29,7 @@
 
 **I build modern, typed, and scalable web applications.**
 
-Based in Chartres, France, I am an 18-year-old ambitious junior fullstack developer currently focused on creating performant SaaS products, professional web platforms, and highly interactive frontend experiences. I believe in writing robust code and crafting premium user interfaces.
+Based in Chartres, France, I am an 18-year-old ambitious junior fullstack developer focused on creating performant SaaS products, professional web platforms, and highly interactive frontend experiences. I believe in writing robust code and crafting premium user interfaces.
 
 My long-term goal is to grow from fullstack engineering into artificial intelligence engineering, bridging the gap between robust web architectures and intelligent systems.
 
@@ -39,7 +47,7 @@ My long-term goal is to grow from fullstack engineering into artificial intellig
 I strongly believe in using the right tool for the job. Currently, my go-to stack for building scalable web applications and SaaS products is **Next.js + TypeScript + Tailwind CSS + Node.js + PostgreSQL + Prisma**.
 
 ### 🎨 Frontend
-I specialize in building modern, interactive, and responsive interfaces. I rely heavily on React and TypeScript for robust applications, while using Next.js for production-ready fullstack projects. For lighter builds, I often leverage Vite. I also have experience with Angular and core web technologies like JavaScript and CSS.
+I specialize in building modern, interactive, and responsive interfaces. I rely heavily on React and TypeScript for robust applications, while using Next.js for production-ready fullstack projects. For lighter builds, I leverage Vite. I also have experience with Angular and core web technologies.
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -107,8 +115,8 @@ While I am a fullstack developer at my core, I have a deep passion for understan
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theo-Dev-Placeholder&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Dev-Placeholder&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=onllytap&show_icons=true&theme=tokyonight&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onllytap&layout=compact&theme=tokyonight" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -121,8 +129,9 @@ While I am a fullstack developer at my core, I have a deep passion for understan
   “Building secure, scalable, and intelligent web applications.”
 </p>
 
+<!-- Pied de page dynamique -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0ea5e9&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0ea5e9&section=footer" alt="Footer Banner" />
 </p>
 
 <br />
